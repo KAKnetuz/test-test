@@ -1,0 +1,46 @@
+Dev1
+https://id.boss-dev1.vertera.org/?service=OS3_PARTNER&countryCode=BG&cityId=6057&language=ru&return=https%3A%2F%2Fboss-dev1.vertera.org%2F%3Fredirect%3D%252F%253F
+email299152@mail.com
+NewPassL123
+админ
+adminr@mail.com 4862Save!
+
+Dev3
+https://id.boss-dev3.vertera.org/?service=OS3_PARTNER&countryCode=DE&cityId=6657&language=en&return=https%3A%2F%2Fboss-dev3.vertera.org%2F%3Fredirect%3D%252F%253F
+email602@mail.com
+mowtuv-Qixjak-puvti3
+
+Pre-Prod
+https://id.boss-preprod.vertera.org/?service=OS3_PARTNER&language=ru&return=https%3A%2F%2Fboss-preprod.vertera.org%3Fredirect%3D%252F%253F
+email460756@mail.com
+Admin124578
+
+
+Prod
+https://id.boss.vertera.org/?service=OS3_PARTNER&language=ru&return=https%3A%2F%2Fboss.vertera.org%2F%3Fredirect%3D%252F%253F
+anzh_aa123@mail.ru
+Testovyi_1
+
+
+
+cloud.alfa-doc.ru
+maznyak.e
+>hV\Wy>ttv
+
+Баг-репорт
+Заголовок: Получение ошибки 403 при открытии ссылки "Перейти в Руководство пользователя" средней кнопкой мыши
+Описание:
+В разделе "Сведения об организации", при клике средней кнопкой мыши на ссылку "Перейти в Руководство пользователя" в подразделе "Параметры доступа к информации" (тариф максимальный), возникает ошибка 403. При клике левой кнопкой мыши или через контекстное меню, ссылка работает корректно. Ошибка возникает только при клике средней кнопкой мыши (открытие в новой вкладке).
+Шаги для воспроизведения:
+Перейти в раздел "Сведения об организации".
+Найти ссылку "Перейти в Руководство пользователя" в разделе "Параметры доступа к информации" (тариф максимальный).
+Кликнуть на ссылку средней кнопкой мыши (колесиком мыши).
+Ожидаемый результат:
+Ссылка открывается в новой вкладке без ошибок.
+Фактический результат:
+Появляется страница с ошибкой 403 Forbidden.
+Дополнительная информация:
+URL ссылки: https://cloud.alfa-doc.ru/help/knowledge/page/eaf39cac7e4d4c7aa52afdc054a1bc3f/
+Браузер: [Укажите версию браузера]
+Операционная система: [Укажите операционную систему]
+Приоритет: Высокий
